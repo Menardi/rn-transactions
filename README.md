@@ -4,10 +4,11 @@ A very simple React Native app with Typescript, which shows a list of transactio
 
 ## Development
 
-Install the dependencies using yarn:
+Install the dependencies:
 
 ```
 yarn install
+(cd ios && pod install)
 ```
 
 Run the development server:
